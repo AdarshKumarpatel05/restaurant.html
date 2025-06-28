@@ -47,6 +47,6 @@ Project workflow using GitHub
 ![Screenshot 2025-06-28 111238](https://github.com/user-attachments/assets/1dd306f5-19ab-4329-b19a-4f92e9c23da3)
 ![Screenshot 2025-06-28 111310](https://github.com/user-attachments/assets/58a8ffc1-f920-4f5d-b75d-2e8a1c040468)
 ![Screenshot 2025-06-28 111342](https://github.com/user-attachments/assets/abab32d7-05ce-4558-ab42-d34137d769a0)
-This ![Screenshot 2025-06-28 111358](https://github.com/user-attachments/assets/2daeeaf2-331d-4190-98f7-dadea66f8e35)
-was my first major step in web development during my internship, and it gave me confidence in building real-world websites.
+ ![Screenshot 2025-06-28 111358](https://github.com/user-attachments/assets/2daeeaf2-331d-4190-98f7-dadea66f8e35)
+ This was my first major step in web development during my internship, and it gave me confidence in building real-world websites.
 
